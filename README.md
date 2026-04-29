@@ -72,19 +72,12 @@ PORT=5000
 MONGO_URI=your_mongodb_connection_string
 ```
 
-Start the backend server:
-
-```bash
-npm run dev
-```
-
----
-
 ### 3. Frontend Setup
 
 ```bash
 cd frontend
 npm install
+npm run dev
 ```
 
 Create a `.env` file in the frontend folder:
