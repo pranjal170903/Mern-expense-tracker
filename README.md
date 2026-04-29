@@ -80,21 +80,6 @@ npm install
 npm run dev
 ```
 
-Create a `.env` file in the frontend folder:
-
-```
-REACT_APP_API_URL=http://localhost:5000
-```
-
-Start the frontend:
-
-```bash
-npm start
-```
-
-
-
----
 
 ## 🌍 Environment Variables
 
@@ -104,15 +89,4 @@ npm start
 PORT=5000
 MONGO_URI=your_mongodb_uri
 ```
-
-### Frontend (.env)
-
-```
-REACT_APP_API_URL=http://localhost:5000
-```
-
----
-
-
-
 
